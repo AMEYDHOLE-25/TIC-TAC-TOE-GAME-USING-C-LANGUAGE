@@ -1,7 +1,8 @@
 # TIC-TAC-TOE-GAME-USING-C-LANGUAGE
 This was my 1 st starting project which I
-dedicatedly,completed in 15 hrs that too without
-Waking up from my sitting position for 15 hrs..
+dedicatedly,and may it some childish to others 
+But that's genuine...I completed it in 15 hrs that too 
+without waking up from my sitting position for 15 hrs..
 .as I was very much interested & fascinated to
 complete my Project....So hope u like this...one
 And would continue to make such projects...Try 
